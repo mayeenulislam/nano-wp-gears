@@ -17,4 +17,4 @@ Storing our necessary WordPress gears that we frequently use or may need when ne
 * [Reading List](https://github.com/mayeenulislam/wordpress-gears/blob/master/reading-list.md) &mdash; Get some interesting articles to read
 
 ---
-<sup>Updated: 20160720 1056 | [**nano**designs](http://nanodesignsbd.com?ref=wordpress-gears)</sup>
+<sup>Updated: 20160727 1126 | [**nano**designs](http://nanodesignsbd.com?ref=wordpress-gears)</sup>
