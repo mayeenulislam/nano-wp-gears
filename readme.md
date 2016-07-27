@@ -2,6 +2,7 @@
 Storing our necessary WordPress gears that we frequently use or may need when necessary.
 
 ## PageBuilder
+*  [**Elementor**](https://elementor.com/) &mdash; [Github](https://github.com/pojome/elementor), [W.org](https://wordpress.org/plugins/elementor/)
 *  [**Tailor**](http://gettailor.com/) &mdash; [Github](https://github.com/andrew-worsfold/tailor), [W.org](https://wordpress.org/plugins/tailor/)
 
 ## CRM - Customer Relationship Management
